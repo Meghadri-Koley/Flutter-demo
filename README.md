@@ -1,4 +1,4 @@
-#A new Flutter project.
+## New Flutter project.
 
 ## Getting Started
 
